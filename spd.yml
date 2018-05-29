@@ -1,0 +1,19 @@
+name: spd
+channels:
+    - conda-forge
+dependencies:
+    - python==3.6
+    - numpy
+    - matplotlib
+    - jupyter
+    - scikit-learn
+    - scipy
+    - h5py
+    - seaborn
+    - pandas
+    - psycopg2
+    - sqlalchemy
+    - flask_bcrypt
+    - password
+    - pip:
+        - apache-airflow==1.8.1
