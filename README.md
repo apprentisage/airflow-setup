@@ -3,8 +3,8 @@
 If you are setting up from scratch (in AWS ec2, for example), then do the following:
 
 ```python
-`chmod +x *.sh`
-`./airflow-setup.sh`
+chmod +x *.sh
+./airflow-setup.sh
 ```
 
 If you already have Anaconda or Miniconda installed, you can simply do the following:
